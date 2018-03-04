@@ -1,12 +1,14 @@
-public class ZajacieUsi {
+/**
+ * Implementujte toto rozhranie
+ */
+public interface ZajacieUsi {
 
 	/**
-	 * Metoda vrati pocet uci zajacov
+	 * Metoda vrati pocet usi zajacov
 	 *
 	 * @param pocetZajacov
 	 * @return pocet usi
 	 */
-	public int zajacieUsi(int pocetZajacov) {
-	}
+	public int zajacieUsi(int pocetZajacov);
 
 }
