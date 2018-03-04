@@ -8,7 +8,7 @@ public class ZajacieUsiTest {
 	private ZajacieUsi zajacieUsi;
 
 	@Before
-	public void init() {
+	public void setup() {
 		//TU vytvorte instanciu vasej triedy
 	}
 
