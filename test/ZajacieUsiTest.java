@@ -10,6 +10,7 @@ public class ZajacieUsiTest {
 	@Before
 	public void setup() {
 		//TU vytvorte instanciu vasej triedy
+		Zajace zajace = new Zajace();
 	}
 
 
